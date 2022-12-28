@@ -10,5 +10,5 @@ Proje 3
 
 ---
 
-1. [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 7 root olarak seçildi. Dolayısıyla 7 dan büyük elementler sağa küçük elementler ise sola doğru sıralanacak. Buna ek olarak sıralanan her element kendi içerisinde aynı kuralı takip edecek.
+1. [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] ilk baştaki element olarak 7 root seçildi. Dolayısıyla 7 den büyük elementler sağa küçük elementler ise sola doğru sıralanacak. Buna ek olarak sıralanan her element kendi içerisinde aynı kuralı takip edecek.
 Sonuç: ![Binary Search Tree](/img/Binary%20Search%20Tree.jpg "Binary Search Tree")
